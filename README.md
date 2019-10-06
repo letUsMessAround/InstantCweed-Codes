@@ -1,9 +1,6 @@
-#Trying-Practicing-Learning
+# 自从有了锤子，看什么都是钉子。
 
+剑指offer
 
-#Tutorial using Git
-https://www.cnblogs.com/best/p/7474442.html#_label0
+LeetCode 
 
-
-#The Algorithms
-https://github.com/TheAlgorithms
