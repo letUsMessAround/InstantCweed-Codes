@@ -1,1 +1,25 @@
-二维数组中的查找
+## 二维数组中的查找
+在一个二维数组中（每个一维数组的长度相同），每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。
+
+
+初始思路：
+看到题目中“每行都是从左往右递增的顺序排序，每列都按照从上到下递增的顺序排序”，想到跟排序有关的查找--二分查找。
+
+二分查找函数常见写法,以查找int型数组为例：
+
+bool binarySearch(vector<int> array,int target){
+	int low = 0;
+	int high = array.size() - 1;
+	while(low <= end){
+		if(target == array[middle]){
+			return true;
+		}
+		else if(target < array[middle])
+			high  = middle - 1;
+		else
+			low = middle + 1;
+	}
+	return false;
+}
+
+确定了查找的主体部分之后，就是对边界值进行单独的判断，如
