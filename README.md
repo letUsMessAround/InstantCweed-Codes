@@ -16,3 +16,5 @@
 
 #### [hexo——轻量、简易、高逼格的博客](https://www.jianshu.com/p/1c888a6b8297?utm_source=oschina-app)
 
+#### [Hexo博客主题pure使用说明](https://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-description.html)
+
