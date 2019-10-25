@@ -18,3 +18,5 @@
 
 #### [Hexo博客主题pure使用说明](https://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-description.html)
 
+#### [Nginx 相关介绍(Nginx是什么?能干嘛?)](https://www.cnblogs.com/wcwnina/p/8728391.html)
+
