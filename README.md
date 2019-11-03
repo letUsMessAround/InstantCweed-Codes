@@ -5,6 +5,7 @@
 
 #### [LeetCode](https://github.com/letUsMessAround/InstantCweed-Codes/tree/master/leetcode?_self) 
 
+#### [git的几十个基本面](https://www.cnblogs.com/darrenji/p/5204198.html)
 ---
 #### [Markdown语法说明(简体中文版)](https://www.jianshu.com/p/41d99fd8ce28)
 <a href="https://www.jianshu.com/p/41d99fd8ce28" target="_blank">Markdown语法说明(简体中文版)</a>
