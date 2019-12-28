@@ -10,6 +10,8 @@
 #### [Markdown语法说明(简体中文版)](https://www.jianshu.com/p/41d99fd8ce28)
 <a href="https://www.jianshu.com/p/41d99fd8ce28" target="_blank">Markdown语法说明(简体中文版)</a>
 
+#### [markdown中公式编辑教程](https://www.jianshu.com/p/25f0139637b7)
+
 ### [我为什么推荐用MarkDown写文档](https://www.jianshu.com/p/82c7dd09a2df)</br>
 <p>markdown就是阉割版的html</br></p>
 <a href = "https://www.cnblogs.com/dotnetcrazy/p/9180295.html#_map7" target = "_blank">Markdown基础（内含：锚点使用，使用HTML，新页面跳转，目录生成）</a>
