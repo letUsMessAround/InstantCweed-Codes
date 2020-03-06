@@ -1,5 +1,5 @@
 # 自从有了锤子，看什么都是钉子。
-## [博客地址](http://fluffysponge.fun/)
+## [博客地址](http://fluffysponge.fun/){:target="_blank"}   
 
 #### [剑指offer](https://github.com/letUsMessAround/InstantCweed-Codes/tree/master/jianzhiOffer?_blank)
 
